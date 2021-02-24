@@ -1,0 +1,105 @@
+
+ #body{
+   width:fit-content
+ }
+#header{
+  margin-top: 30px;
+}
+
+#lay2{
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+.text-center{
+  font-size: small;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#firsth{
+  margin-left: 80px;
+  margin-top: 60px;
+}
+
+.my-form{
+  padding-right:320px;
+  padding-top: 25px;
+}
+
+.form-group{
+  padding-bottom: 2.5px;
+  color:rgb(106, 106, 248);
+  font-size: 12px;
+}
+
+#oops{
+  margin-right: 20px;
+}
+
+.my-form input[type="text"] {
+  padding:8px;
+  padding-right:20px;
+  width:30%;
+  border:0.3px solid rgb(84, 170, 240);
+  border-radius: 120px;
+
+}
+
+.my-form input[type="submit"]{
+  width:30%;
+  border-radius: 120px;
+  background-color:rgb(248, 82, 22);
+  margin-bottom: 20px;
+  color:rgb(227, 227, 241);
+  margin-top: 20px;
+}
+
+.my-form input[type="submit"]:hover {
+    background: #99e6b9;
+  }
+  
+
+
+#welcome{
+  font-size: 17px;
+  color:rgb(106, 106, 248);
+}
+
+::placeholder { 
+  font-size: 9.3px;
+  
+}
+
+::placeholder{
+  text-align: right;
+  color:rgb(87, 117, 201);
+}
+
+
+
+#loginTo{
+  font-size: 20px;
+  color:rgb(106, 106, 248);
+}
+
+ #forgotpassword{
+  font-size: 9px;
+  font-weight: bold;
+  color:rgb(106, 106, 248);
+}
+
+#headerRight{
+  margin-left: 75px;
+  font-size: 12px;
+  font-weight:500;
+  color:rgb(106, 106, 248);
+  font-family:'Times New Roman', Times, serif;
+}
+
+#forgotp{
+  margin-left: 60px;
+}
+
+
+
+

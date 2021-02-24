@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.363" height="17.243" viewBox="0 0 16.363 17.243">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ff8419;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="Iconly_Light_Home" data-name="Iconly/Light/Home" transform="translate(-1.75 -1.153)">
+    <g id="Home" transform="translate(2.5 2)">
+      <path id="Home-2" data-name="Home" class="cls-1" d="M5.208,14.684v-2.4a1.116,1.116,0,0,1,1.114-1.11H8.579A1.116,1.116,0,0,1,9.7,12.285h0v2.406a.958.958,0,0,0,.941.954h1.505a2.7,2.7,0,0,0,2.717-2.69h0V6.131a1.908,1.908,0,0,0-.753-1.49L8.963.536a2.488,2.488,0,0,0-3.085,0L.753,4.649A1.893,1.893,0,0,0,0,6.139v6.817a2.7,2.7,0,0,0,2.717,2.69H4.222a.966.966,0,0,0,.971-.961h0" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>
